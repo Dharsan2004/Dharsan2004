@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 Dharsan Here 
+Intrested in DSA and Problem Solving 
+Leetcode Profile : https://leetcode.com/dharsanS2004/
+
 
 <!--
 **Dharsan2004/Dharsan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
