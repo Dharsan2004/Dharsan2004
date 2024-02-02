@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharsan S</h1>
-<h3 align="center">A passionate Backend Developer and Problem Solver from India</h3>
+<h3 align="center">A passionate Backend Developer and Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharsan2004&label=Profile%20views&color=0e75b6&style=flat" alt="dharsan2004" /> </p>
 
